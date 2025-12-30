@@ -1,0 +1,7 @@
+{
+  "name": "React Dev Container",
+  "dockerComposeFile": "../compose.yaml",
+  "service": "frontend",
+  "workspaceFolder": "/app",
+  "shutdownAction": "stopCompose"
+}
