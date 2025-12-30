@@ -4,4 +4,6 @@
 backend/
 react/node_modules/
 react/dist/
+/composer.lock
+/composer.json
 
